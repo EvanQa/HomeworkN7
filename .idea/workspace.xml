@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="439d58e8-1757-42ae-8feb-a0563d89e2a3" name="Changes" comment="Homework7">
+    <list default="true" id="439d58e8-1757-42ae-8feb-a0563d89e2a3" name="Changes" comment="solution from teacher +">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,11 +101,29 @@
       <option name="project" value="LOCAL" />
       <updated>1727009213325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solution from teaacher +">
+      <option name="closed" value="true" />
+      <created>1727016179027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727016179027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="solution from teacher +">
+      <option name="closed" value="true" />
+      <created>1727017503185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017503185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework7" />
+    <MESSAGE value="solution from teaacher +" />
+    <MESSAGE value="solution from teacher +" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution from teacher +" />
   </component>
 </project>
